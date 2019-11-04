@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 01 12:05:24 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-25ac-fbe0-00000836da08 
+on database directory memory:/home/aditya/Downloads/FirstExample/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/home/aditya/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_222-8u222-b10-1ubuntu1~18.04.1-b10
+user.dir=/home/aditya/Downloads/FirstExample
+os.name=Linux
+os.arch=amd64
+os.version=5.0.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
